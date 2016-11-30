@@ -4,8 +4,8 @@
 
 # Download WAMP at https://sourceforge.net/projects/wampserver/files/WampServer 2/Wampserver 2.5/ and install it,
   e.g. D drive
-# Copy files bin/*.* to D:/wamp/bin/php/php5.5.12
-# Copy files system/*.* to CodeIgniter [v2.1.3 only] system folder, e.g. D:/A20P52/www/pwater/system
+# Copy files setup/application/*.* to CodeIgniter [v2.1.3 only] application folder, e.g. D:/A20P52/www/pwater/application
+# Copy files setup/system/*.* to CodeIgniter [v2.1.3 only] system folder, e.g. D:/A20P52/www/pwater/system
 # To create Bash aliases, copy the file .bash_profile to %userprofile% (e.g. C:/Users/tuan_dung)
 # Now, open Git Bash and run the following command: phpunit --version
 
@@ -23,7 +23,7 @@
 # PHPUnit Support in PhpStorm 2016
 ####################
 
-# Follow the steps here: https://www.jetbrains.com/help/phpstorm/2016.2/enabling-phpunit-support.html
+# Follow the steps here: https://www.jetbrains.com/help/phpstorm/2016.3/enabling-phpunit-support.html
 # Screenshot: phpstorm_settings.png
 
 ####################

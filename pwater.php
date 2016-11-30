@@ -1,5 +1,4 @@
 <?php
-
 $_SERVER['argv'] = array(); // we'll process this later
 
 ob_start();
